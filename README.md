@@ -26,6 +26,7 @@ Include a list of the tools used in the project:
 <a class="anchor" id="contact"></a>
 >## Contact Information
 [BillGates](https://www.linkedin.com/in/williamhgates/detail/recent-activity/posts/)
+
 [@BillGates](https://twitter.com/BillGates) - Twitter
 
 <a class="anchor" id="Create_git_repo"></a>
